@@ -1,0 +1,19 @@
+# AI Voice Customer Support Agent 
+# Using: Google TTS + OpenAI Whisper + Gemini 2.0 Flash
+
+
+# Text-to-Speech (Google Cloud TTS)
+google-cloud-texttospeech
+
+# LLM (Google Gemini)
+google-genai
+
+# Audio Processing
+sounddevice
+soundfile
+numpy
+pydub
+
+# Utilities
+python-dotenv
+flask
